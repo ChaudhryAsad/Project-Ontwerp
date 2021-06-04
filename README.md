@@ -10,6 +10,7 @@ The application note is structured as follows. All the materials and methods tha
 
 ### Esp-12
 The clock is controlled by an ESP12 module, so it can be synchronized with a time server on the Internet, con-trolled with a mobile device or computer in the network, or receive sensor data via Wi-Fi. 
+
 ![image](https://user-images.githubusercontent.com/43784134/120729252-ef35db00-c4de-11eb-9552-c910ad681a94.png)
 
 ### Multi-colour 7-segment
