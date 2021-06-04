@@ -1,0 +1,69 @@
+[ AutoCAD - Wed Jun 02 10:25:12 2021  ]----------------------------------------
+
+Command: 
+**** System Variable Changed ****
+1 of the monitored system variables has changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+**** System Variable Changed ****
+1 of the monitored system variables has changed from the preferred value. Use SYSVARMONITOR command to view changes.
+
+Command: LINE
+
+Specify first point: *Cancel*
+
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Crossing Lasso  Press Spacebar to cycle options
+Command: REG
+REGION 
+Crossing Lasso  Press Spacebar to cycle options6 found
+
+Select objects: 
+
+1 loop extracted.
+
+
+1 Region created.
+
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: 1 found
+
+Select objects to extrude or [MOde]: 
+
+Specify height of extrusion or [Direction/Path/Taper angle/Expression]: 
+
+Command: 
+Command: _.erase 1 found
+
+Command: JOIN
+
+Select source object or multiple objects to join at once: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Automatic save to C:\Users\zshan\appdata\local\temp\lid_1_1_4651.sv$ ...
+
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _close 
+Command: 

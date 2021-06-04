@@ -1,0 +1,205 @@
+[ AutoCAD - Wed Jun 02 15:22:34 2021  ]----------------------------------------
+
+Opening an AutoCAD 2013 format file.
+Regenerating model.
+
+
+AutoCAD menu utilities loaded.*Cancel*
+
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command: _u INTELLIZOOM INTELLIZOOM 
+Command: _u 
+Command: _u INTELLIPAN INTELLIZOOM 
+Everything has been undone
+
+Command: _u Nothing to undo
+
+Command: _u Nothing to undo
+
+Command: _u Nothing to undo
+
+Command: _u Nothing to undo
+
+Command: _u Nothing to undo
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: _.erase 1 found
+
+Command: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: _.erase 1 found
+
+Command: '_-view Enter an option [?/Delete/Orthographic/Restore/Save/sEttings/Window]: _top Regenerating model.
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]:  
+Command:  LINE
+
+Specify first point: 
+
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point: 
+
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point: 
+
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point:  
+No line or arc to continue.
+
+Specify first point:  <Ortho on> 
+Specify next point or [Undo]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner: 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner: 
+Command: Specify opposite corner: Specify opposite corner:  
+Invalid window specification.
+Specify opposite corner: Specify opposite corner: 
+Command: 
+
+
+Command: 
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _splinedit 
+
+Enter an option [Open/Fit data/Edit vertex/convert to Polyline/Reverse/Undo/eXit] <eXit>: *Cancel*
+
+Command: 
+Command: 
+** STRETCH **
+Specify stretch point or [Base point/Copy/Undo/eXit]:
+Command: *Cancel*
+
+Command: _u INTELLIZOOM 
+Command: _u Grip Edit 
+Command: Specify opposite corner: 
+Command: 
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]: Zero length line created at (31.5209, 8.2788, 0.0000)
+
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: 
+Command: 
+Command: 
+Command: _erase 1 found
+
+Command: 
+Command: 
+Command: _line 
+Specify first point: 
+Specify next point or [Undo]:  <Ortho off> 
+Specify next point or [Undo]: *Cancel*
+
+Command: HATCH
+
+Pick internal point or [Select objects/Undo/seTtings]: Selecting everything...
+Selecting everything visible...
+Analyzing the selected data...
+
+Analyzing internal islands...
+
+Pick internal point or [Select objects/Undo/seTtings]: *Cancel*
+
+Command: *Cancel*
+
+Command: Specify opposite corner: 
+Command: _.erase 1 found
+
+Hatch boundary associativity removed.
+Command: 
+Command: _.erase 1 found
+
+Command: 
+Command: 
+Command: _qsave 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

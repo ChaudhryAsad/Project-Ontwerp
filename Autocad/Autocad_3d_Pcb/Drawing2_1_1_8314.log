@@ -1,0 +1,140 @@
+[ AutoCAD - Wed Jun 02 10:26:31 2021  ]----------------------------------------
+
+Opening an AutoCAD 2013 format file.
+
+
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+
+Command: 
+Command:  
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+**** No System Variable Changed ****
+
+Command: 
+Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: *Cancel*
+
+Command: PRESSPULL
+
+Select object or bounded area:
+Click a face, curve, or inside a bounded area
+Select object or bounded area:
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: Specify opposite corner: 
+
+Invalid window specification.
+Specify opposite corner: Specify opposite corner: *Cancel*
+0 found
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: *Cancel*
+
+Command: LINE
+
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: LINE
+
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: LINE
+
+Specify first point: 
+Specify next point or [Undo]: 
+Specify next point or [Undo]: 
+Specify next point or [Close/Undo]: 
+Specify next point or [Close/Undo]: *Cancel*
+
+Command: *Cancel*
+
+Window Lasso  Press Spacebar to cycle options
+Crossing Lasso  Press Spacebar to cycle options
+Command: _.erase 3 found
+
+Command: 3DROTATE
+
+Current positive angle in UCS:  ANGDIR=counterclockwise  ANGBASE=0
+
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: MIRROR3D
+
+Select objects: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: UNION
+
+Select objects: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 

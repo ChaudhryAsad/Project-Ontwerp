@@ -1,0 +1,122 @@
+[ AutoCAD - Wed Jun 02 10:25:46 2021  ]----------------------------------------
+
+Opening an AutoCAD 2013 format file.
+
+
+AutoCAD menu utilities loaded.
+Command: 
+
+Autodesk DWG.  This file is a TrustedDWG last saved by an Autodesk application or Autodesk licensed application.
+
+Command: 
+**** No System Variable Changed ****
+
+**** No System Variable Changed ****
+
+
+Command: 
+Command: 
+Command: 
+Command: _qsave 
+Command: LOGFILEMODE
+
+Enter new value for LOGFILEMODE <1>: 1
+
+Command: 
+Command:  
+Command: 
+Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: 
+Press ESC or ENTER to exit, or right-click to display shortcut-menu.
+
+Command: *Cancel*
+
+Command: EXTRUDE
+
+Current wire frame density:  ISOLINES=4, Closed profiles creation mode = Solid
+
+Select objects to extrude or [MOde]: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: LINE
+
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: LINE
+
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  LINE
+
+Specify first point: EXTRUDE
+
+Invalid point.
+
+Specify first point: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: JOIN
+
+Select source object or multiple objects to join at once: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: PRESSPULL
+
+Select object or bounded area:
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command:  
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: MATERIALS
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: 
+Command: 
+Command: _qsave 
+Command: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
