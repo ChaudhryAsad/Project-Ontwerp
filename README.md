@@ -18,3 +18,10 @@ The clock is controlled by an ESP12 module, so it can be synchronized with a tim
 This display has eight 5050-RGB NeoPixel LEDs (seven segments plus decimal point) with integrated three-chip chips, allowing the user to control the color and brightness of each individual segment via a 3-wire bus (VCC, GND, and DATA). 
 
 ![image](https://user-images.githubusercontent.com/43784134/120729502-9ca8ee80-c4df-11eb-932e-048ad6a66bc9.png)
+
+## RFID project with Arduino
+
+<details>
+<summary>Click to expand the RFID project with Arduino</summary> 
+ 
+ <p align="center"><img src="./readme_Images/ARDUINO_VERIFICATION_DEMO.jpeg"></p>
