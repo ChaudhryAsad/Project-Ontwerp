@@ -9,4 +9,11 @@ The application note is structured as follows. All the materials and methods tha
 ##	Material and methods
 
 ### Esp-12
+The clock is controlled by an ESP12 module, so it can be synchronized with a time server on the Internet, con-trolled with a mobile device or computer in the network, or receive sensor data via Wi-Fi. 
 ![image](https://user-images.githubusercontent.com/43784134/120729252-ef35db00-c4de-11eb-9552-c910ad681a94.png)
+
+### Multi-colour 7-segment
+
+This display has eight 5050-RGB NeoPixel LEDs (seven segments plus decimal point) with integrated three-chip chips, allowing the user to control the color and brightness of each individual segment via a 3-wire bus (VCC, GND, and DATA). 
+
+![image](https://user-images.githubusercontent.com/43784134/120729502-9ca8ee80-c4df-11eb-932e-048ad6a66bc9.png)
