@@ -1,0 +1,12 @@
+[0506/171749:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0506/171749:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0506/171749:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {DE72736F-8675-4D26-BD70-537091146DB9}\BrowserCache to C:\ProgramData\Altium\Altium Designer {DE72736F-8675-4D26-BD70-537091146DB9}\old_BrowserCache_000
+[0506/171749:ERROR:cache_creator.cc(129)] Unable to create cache
+[0506/173048:ERROR:backend_impl.cc(2020)] Corrupt Index file
+[0506/173048:ERROR:cache_util_win.cc(20)] Unable to move the cache: 5
+[0506/173048:ERROR:cache_util.cc(134)] Unable to move cache folder C:\ProgramData\Altium\Altium Designer {DE72736F-8675-4D26-BD70-537091146DB9}\BrowserCache to C:\ProgramData\Altium\Altium Designer {DE72736F-8675-4D26-BD70-537091146DB9}\old_BrowserCache_000
+[0506/173048:ERROR:cache_creator.cc(129)] Unable to create cache
+[0515/094329:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0515/094329:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0515/094341:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[0515/094341:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.

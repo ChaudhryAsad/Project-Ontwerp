@@ -1,0 +1,48 @@
+Capacitors
+2x
+C8 = 100µF, 16V, 2312
+
+Description:
+Tantalum Capacitors - Solid SMD 16V 100uF 2312 20% 
+
+Mfr. No:
+F931C107MCCAJ6
+---------------------------------------------------------------------------
+x3
+D1 = MBRS540
+
+Description:
+Schottky Diodes & Rectifiers 5A 40V
+
+Mfr. No:
+MBRS540T3G
+---------------------------------------------------------------------------
+Semiconductors
+x3
+IC2 = 74LVC1T45GW
+
+Description:
+Bus Transceivers Single-Bit Dual Sply 5.5V 250mW
+
+Mfr. No:
+74LVC1T45GW,125
+
+----------------------------------------------------------------------------
+x4
+IC4,IC5 = Qtouch Touch Sensor type AT42QT1010-TSHR
+
+Description:
+Capacitive Touch Sensors One-Channel Touch Sensor IC
+
+Mfr. No:
+AT42QT1010-TSHR
+----------------------------------------------------------------------------
+x3
+IC6 = MCP1700T-3302E/TT
+
+LDO Voltage Regulators 250mA Adj LDO 2%
+
+Mfr. No:
+MCP1700T-3302E/TT
+----------------------------------------------------------------------------
+

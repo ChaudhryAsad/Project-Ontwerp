@@ -1,0 +1,28 @@
+Component List
+Resistors
+R1 = LDR NSL-19M51*
+R2,R3,R4,R5,R6,R8,R9,R10,R11,R12 = 10kOhm
+R7 = 1kOhm
+Capacitors
+C1,C5,C6,C7,C10,C11,C13 = 100nF, 50V, X7R, 0805
+C2,C4,C9 = 10µF, 10V, tantalum, 1206
+C3,C15,C16 = 1µF, 50 V, X5R, 0805
+C8 = 100µF, 16V, 2312
+C12,C14 = 10nF, 50V, X7R, 0805
+Semiconductors
+D1 = MBRS540
+LED1,LED2,LED3,LED4 = 7-segment RGB display*
+IC1 = LD1117S33TR
+IC2 = 74LVC1T45GW
+IC3 = I2C EEPROM 8K × 8 bit, type 24LC64T-I/OT
+IC4,IC5 = Qtouch Touch Sensor type AT42QT1010-TSHR
+IC6 = MCP1700T-3302E/TT
+Miscellaneous
+F1 = 2A PTC resettable fuse, type  (Bourns)
+K1 = Micro-USB type B receptacle, underside mount
+K2 = 6-pin SIL pinheader, 0.1” pitch, right angled
+K3 = 5-pin SIL pinheader, 0.1” pitch, right angled
+K4 = 4-pin SIL pinheader, 0.1” pitch, straight
+K5 = 2-pin SIL pinheader, 0.1” pitch, right angled
+MOD1 = ESP8266-12F
+S1 = Tactile switch
