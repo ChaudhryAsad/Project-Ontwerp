@@ -22,3 +22,16 @@ This display has eight 5050-RGB NeoPixel LEDs (seven segments plus decimal point
 ## PCB Design
 
 ![Pcb_3d](https://user-images.githubusercontent.com/43784134/120729898-96674200-c4e0-11eb-9319-ea3c14ec6ac2.PNG)
+
+## Built With
+
+* [Arduino IDE](https://www.arduino.cc/en/Main/Software/)       - Programming environment used for the Arduino
+* [ALtium](https://www.altium.com/)                             - For the Schematic and PCB design
+* [Autocad](https://www.autodesk.com/products/autocad/overview?term=1-YEAR)                             - For the Schematic and PCB design
+
+**## Component List/Price
+
+![image](https://user-images.githubusercontent.com/43784134/120730675-4ee1b580-c4e2-11eb-8f85-c52e0099b98f.png)
+
+
+
