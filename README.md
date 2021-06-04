@@ -27,11 +27,15 @@ This display has eight 5050-RGB NeoPixel LEDs (seven segments plus decimal point
 
 * [Arduino IDE](https://www.arduino.cc/en/Main/Software/)       - Programming environment used for the Arduino
 * [ALtium](https://www.altium.com/)                             - For the Schematic and PCB design
-* [Autocad](https://www.autodesk.com/products/autocad/overview?term=1-YEAR)                             - For the Schematic and PCB design
+* [Autocad](https://www.autodesk.com/products/autocad/overview?term=1-YEAR)                             - For 3d desgin of the case
 
-**## Component List/Price
+## Component List/Price
 
 ![image](https://user-images.githubusercontent.com/43784134/120730675-4ee1b580-c4e2-11eb-8f85-c52e0099b98f.png)
 
+## Reference list 
+https://www.elektor.com/rgb-digit-clock-module-160100-91
+
+<p align="left"><img src="./readme_Images/pxl_logo.png"></p>
 
 
