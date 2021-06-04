@@ -36,6 +36,5 @@ This display has eight 5050-RGB NeoPixel LEDs (seven segments plus decimal point
 ## Reference list 
 https://www.elektor.com/rgb-digit-clock-module-160100-91
 
-<p align="left"><img src="./readme_Images/pxl_logo.png"></p>
-
+![image](https://user-images.githubusercontent.com/43784134/120731165-4c339000-c4e3-11eb-84fa-3e22d922a7ea.png)
 
